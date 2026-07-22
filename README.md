@@ -16,7 +16,7 @@ Nossa plataforma simplifica e automatiza a rotina de reuniões 1:1 (*one-on-one*
 ```
    LÍDER & COLABORADOR                    MOTOR DE INTELIGÊNCIA                            RECURSOS HUMANOS
   [ Reunião Síncrona ]  ──(Notas)──►  [ Higienização & SBI por IA ]  ──(Analytics)──►  [ Decisões de Carreira ]
-                                           (LGPD & Direitos Humanos)                     (Retenção & Clima)
+                                        (LGPD & Direitos Humanos)                         (Retenção & Clima)
 ```
 
 ---
