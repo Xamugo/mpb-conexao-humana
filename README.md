@@ -1,4 +1,4 @@
-# 🧅 MPB Conexão Humana
+#  MPB Conexão Humana
 
 > **A plataforma premium de alinhamento de equipes e People Analytics, focada em segurança de dados e conformidade com a LGPD.**
 
