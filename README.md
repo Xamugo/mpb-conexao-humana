@@ -14,7 +14,7 @@ No cenário corporativo moderno, a falha de comunicação entre líderes e lider
 Nossa plataforma simplifica e automatiza a rotina de reuniões 1:1 (*one-on-one*) e feedbacks, removendo barreiras burocráticas e fornecendo inteligência em tempo real para a tomada de decisões de Recursos Humanos.
 
 ```
- LÍDER & COLABORADOR                   MOTOR DE INTELIGÊNCIA                    RECURSOS HUMANOS
+   LÍDER & COLABORADOR                    MOTOR DE INTELIGÊNCIA                            RECURSOS HUMANOS
   [ Reunião Síncrona ]  ──(Notas)──►  [ Higienização & SBI por IA ]  ──(Analytics)──►  [ Decisões de Carreira ]
                                            (LGPD & Direitos Humanos)                     (Retenção & Clima)
 ```
