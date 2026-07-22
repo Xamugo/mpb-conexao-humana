@@ -10,7 +10,7 @@ O **MPB Conexão Humana** foi projetado sob os mais modernos conceitos de Gestã
 
 ```
 ┌──────────────────┐      Atas Higienizadas       ┌──────────────────┐
-│ LÍDER & COLABORADOR│ ─────────────────────────► │ RECURSOS HUMANOS │
+│ LÍDER & LIDERADO │ ─────────────────────────► │ RECURSOS HUMANOS │
 │ • Alinhamento    │                              │ • Analytics      │
 │ • Assinatura OTP │      Dashboard & Alertas     │ • Governança     │
 └──────────────────┘ ◄─────────────────────────── └──────────────────┘
